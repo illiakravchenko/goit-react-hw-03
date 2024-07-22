@@ -1,5 +1,6 @@
 .searchBox {
   margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 .searchBox label {
@@ -11,4 +12,8 @@
   width: 20%;
   padding: 8px;
   box-sizing: border-box;
+}
+
+.searchBox input:hover {
+  border-color: rgb(8, 133, 250);
 }
